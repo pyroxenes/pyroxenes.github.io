@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-recent stats/econ grad interested in how data science can be applied in public policy, environmental issues, and sports.
 
 currently a fan of: 
   * OCR's potential to speed up menial tasks in the financial sector
