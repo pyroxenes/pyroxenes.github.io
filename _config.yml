@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "My"
+title_left    : "Data"
 title_right   : "Blog" # default: ""
-description   : "Blog posts + occasional projects on what currently interests me."
+description   : "Repo of stuff that currently interests me."
 keywords      : ""
 url           : https://pyroxenes.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
