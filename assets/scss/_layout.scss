@@ -98,6 +98,9 @@ hr {
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 
   span {
     font-weight: 700;
@@ -105,11 +108,14 @@ hr {
 }
 
 .logo-image{
-    width: 20px;
-    height: 20px;
+    width: 10%;
+    height: 10%;
     border-radius: 10%;
     overflow: hidden;
     margin-top: -6px;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .nav {
@@ -132,6 +138,10 @@ hr {
   a {
     @extend .link;
   }
+	
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .category-title {
