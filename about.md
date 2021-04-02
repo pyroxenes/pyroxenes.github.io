@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-currently a fan of: 
-  * OCR's potential to speed up menial tasks in the financial sector
-  * Optimal ways of financing GreenTech
-  * Solutions to providing clean water affordably and safely
-  * Circular economies
-  * Simple living and anti-materialism
-  * Supply chain transparency
-  * The Rockets!! Basketball analytics at its best
-  * The Sixers 
+we are college graduates who have a lot of really stupid ideas, and this is the place to talk about them.
 
+| |  |   |||
+| :---        |    :----:   |     :----: |  :----:|  ---:|
+| ![deedee](/assets/images/dee.png)|![abby](/assets/images/dabs.png)|![tom](/assets/images/tom.png)|![zach](/assets/images/zack.png)||
+|![paulo](/assets/images/paul.png)|![kirsten](/assets/images/kclout.png)|![luke](/assets/images/chuck.png)| ![bilal](/assets/images/bil.png)| ![marah](/assets/images/mahwah.png)|
