@@ -1,10 +1,10 @@
 # Site settings
-title_left    : "Data"
-title_right   : "Blog" # default: ""
-description   : "Repo of stuff that currently interests me."
+title_left    : "We"
+title_right   : "Dim" # default: ""
+description   : "We have so many stupid ideas."
 keywords      : ""
 url           : https://wedim.github.io/ # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "wedim" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Pyroxenes"
+  name     : "Wedim"
 
 plugins:
   - jekyll-sitemap
