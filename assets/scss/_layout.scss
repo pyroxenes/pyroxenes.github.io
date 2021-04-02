@@ -92,15 +92,12 @@ hr {
 
 .logo {
   float: left;
-  margin: 0 0 1em 0;
+  margin: 1em 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
   font-size: 20px;
   line-height: 28px;
   font-weight: 300;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 
   span {
     font-weight: 700;
@@ -108,14 +105,11 @@ hr {
 }
 
 .logo-image{
-    width: 10%;
-    height: 10%;
+    width: 40px;
+    height: 40px;
     border-radius: 10%;
     overflow: hidden;
-    margin-top: -6px;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    margin: 1em 0 0 0;
 }
 
 .nav {
@@ -124,7 +118,7 @@ hr {
 
 .navbar {
   float: right;
-  margin: 0;
+  margin: 1em 0 0 0;
   position: relative;
   padding: 0;
   pointer-events: all;
@@ -138,10 +132,7 @@ hr {
   a {
     @extend .link;
   }
-	
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+
 }
 
 .category-title {
