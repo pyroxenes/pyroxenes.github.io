@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "We"
 title_right   : "Dim" # default: ""
-description   : "We have so many stupid ideas."
+description   : ""
 keywords      : ""
 url           : https://wedim.github.io/ # site url
 baseurl       : "wedim" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
