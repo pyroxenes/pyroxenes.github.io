@@ -1,6 +1,9 @@
 **ideas**
 
-* Sopranos Watch - probably just consists of our netflix party transcripts and maybe someone can write up a review, james gandolfini appreciation post, 
+* Sopranos Watch - probably just consists of our netflix party transcripts and maybe someone can write up a review, james gandolfini appreciation post
+
+![tony](/assets/images/tony!.gif)
+
 * Doughs and Dunks - Bilal and Dee finally make their blog rating foods as basketball players come true
 * Fantasy Basketball Updates - current standings
 * Best Hits - just an archive of our favorite WeDim moments, quotes, and outside content
