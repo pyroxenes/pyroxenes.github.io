@@ -92,7 +92,7 @@ hr {
 
 .logo {
   float: left;
-  margin: 1em 0 1em 0;
+  margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
   font-size: 20px;
@@ -104,13 +104,6 @@ hr {
   }
 }
 
-.logo-image{
-    width: 40px;
-    height: 40px;
-    border-radius: 10%;
-    overflow: hidden;
-    margin: 1em 0 0 0;
-}
 
 .nav {
   min-height: 64px;
@@ -118,7 +111,7 @@ hr {
 
 .navbar {
   float: right;
-  margin: 1em 0 0 0;
+  margin: 0;
   position: relative;
   padding: 0;
   pointer-events: all;
